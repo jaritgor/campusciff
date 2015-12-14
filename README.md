@@ -230,10 +230,12 @@ This branch is even with Eduardociff:master.
 ##### 41. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
 
 Al no existir fichero index.html modifico readme - Añadido nombre jaritgor 
+Al no existir fichero index.html modifico readme - Añadido nombre jaritgor 
 
 ##### 42. Con cada rama hacer un pull-request.
 
 Update README.md #1 Open	jaritgor  wants to merge 1 commit into plopez76:master from jaritgor:master
+Update README.md #1 Open	jaritgor  wants to merge 1 commit into Eduardociff:master from jaritgor:master
 
 ##### 43. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
