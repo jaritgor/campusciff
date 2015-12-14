@@ -104,13 +104,11 @@ $ git add 1.txt
 $ git commit -m "anadido hola 1.txt"
 
 ##### 19. Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit.
-joseantonio@jaritgor MINGW64 ~/Desktop/BIG DATA/DATA_SCIENCE_TOOLKIT/campusciff/campusciff (master)
+
 $ git checkout v0.2
 
-joseantonio@jaritgor MINGW64 ~/Desktop/BIG DATA/DATA_SCIENCE_TOOLKIT/campusciff/campusciff (v0.2)
 $ git add 1.txt
 
-joseantonio@jaritgor MINGW64 ~/Desktop/BIG DATA/DATA_SCIENCE_TOOLKIT/campusciff/campusciff (v0.2)
 $ git commit -m "añadido adios 1.txt"
 
 
@@ -237,4 +235,6 @@ Al no existir fichero index.html modifico readme - Añadido nombre jaritgor
 
 Update README.md #1 Open	jaritgor  wants to merge 1 commit into plopez76:master from jaritgor:master
 
-43. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+##### 43. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+Esperando para aceptar pull-request
