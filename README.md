@@ -241,4 +241,7 @@ Update README.md #1 Open	jaritgor  wants to merge 1 commit into Eduardociff:mast
 
 ##### 43. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
-Esperando para aceptar pull-request
+campusciffjaritgor.github.io
+
+jaritgor Merge pull request #1 from campusciff-miguelrg22/v1.0 …
+Update index.html
