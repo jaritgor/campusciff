@@ -16,7 +16,6 @@ OK
 
 ##### 4. Añadir al README.md los comandos utilizados hasta ahora y hacer un coomit inicial con el mensaje commit inicial.
 
-joseantonio@jaritgor MINGW64 ~/Desktop/BIG DATA/DATA_SCIENCE_TOOLKIT/campusciff (master)
 $ cd campusciff
 
 $ ls -a
